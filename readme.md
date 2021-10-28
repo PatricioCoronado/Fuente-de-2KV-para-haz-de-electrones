@@ -1,7 +1,9 @@
 ## [UNIVERSIDAD AUTÓNOMA DE MADRID](https://www.uam.es/UAM/Home.htm?language=es)
 ## [SEGAINVEX-Electrónica](https://www.uam.es/uam/segainvex)
 **Proyecto OT:20161033**
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto2.jpg " ")
+
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto2.jpg " ")
+
 ## DESCRIPCIÓN
 ### Fuente de alimenación de +-2KV para cañón de haz de electrones 
 ### Desarrollado por SEGAINVEX-Electrónica para el [Departamento de Física de la Materia Condensada de la UAM](https://www.fmc.uam.es/research/nano-spm-lab/)
@@ -17,11 +19,11 @@
 
 ## [PCBs](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/pcbs/)
 ### 
-## [FOTOS DEL EQUIPO](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/) 
+## [FOTOS DEL EQUIPO](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/) 
 ###
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto2.jpg " ")
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto3.jpg " ")
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto4.jpg " ")
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto5.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto2.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto3.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto4.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto5.jpg " ")
 
 ###### publicado desde "X:\Proyecto\2016\20161033 D Fuente cañon ±2KV-30mA, 12V-10A\[11] GITHUB"
