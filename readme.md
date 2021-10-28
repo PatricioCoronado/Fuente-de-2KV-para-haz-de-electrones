@@ -17,7 +17,7 @@
     
 ## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/esquemas/)
 
-## [PCBs](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/pcbs/)
+## [PCBs](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/proyecto/)
 ### 
 ## [FOTOS DEL EQUIPO](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/) 
 ###
