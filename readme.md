@@ -25,6 +25,6 @@
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto3.jpg "trasera")
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto4.jpg "detalle")
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/foto5.jpg "detalle")
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/esquema.jpg "esquema")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/fotos/esquema.JPG "esquema")
 
 ###### publicado desde "X:\Proyecto\2016\20161033 D Fuente cañon ±2KV-30mA, 12V-10A\[11] GITHUB"
