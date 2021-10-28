@@ -1,25 +1,27 @@
 ## [UNIVERSIDAD AUTÓNOMA DE MADRID](https://www.uam.es/UAM/Home.htm?language=es)
 ## [SEGAINVEX-Electrónica](https://www.uam.es/uam/segainvex)
 **Proyecto OT:20161033**
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto2.jpg " ")
 ## DESCRIPCIÓN
-### Fuente de alimenación de +-2KV para cañon de electrones 
+### Fuente de alimenación de +-2KV para cañón de haz de electrones 
 ### Desarrollado por SEGAINVEX-Electrónica para el [Departamento de Física de la Materia Condensada de la UAM](https://www.fmc.uam.es/research/nano-spm-lab/)
 ### Enero 2019
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/master/Imagenes/fuente_1.jpg "Fuente")
 
-## [SOFTWARE DE PC](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/master/software/software.zip)
+## [SOFTWARE DE PC](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/software/software.zip)
 ## Desarrollado con [LabWindowsCVI de NI](https://www.ni.com/es-es.html)
 
-## [FIRMWARE Arduino DUE](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/master/firmware/firmware.zip)
+## [FIRMWARE Arduino DUE](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/firmware/firmware.zip)
 ## Desarrollado con [Atmel Studio 6](https://www.microchip.com/en-us/development-tools-tools-and-software/avr-and-sam-downloads-archive)
     
-## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/master/esquemas/)
+## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/esquemas/)
 
-## [PCBs](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/master/pcbs/)
+## [PCBs](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/main/pcbs/)
 ### 
-## IMAGENES 
+## [FOTOS DEL EQUIPO](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/) 
 ###
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/master/Imagenes/fuente_2.jpg " ")
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/blob/master/Imagenes/fuente_3.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto2.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto3.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto4.jpg " ")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Fuente-de-2KV-para-haz-de-electrones/tree/main/fotos/foto5.jpg " ")
 
 ###### publicado desde "X:\Proyecto\2016\20161033 D Fuente cañon ±2KV-30mA, 12V-10A\[11] GITHUB"
